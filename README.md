@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there🗿
+
+I'm Julia and I'm a first year PhD student with the Trujillo Research Group at University of Manchester. 
+
+- 🌱 I’m currently learning Python and C#
+
 
 <!--
 **jak713/jak713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
