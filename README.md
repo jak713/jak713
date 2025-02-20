@@ -1,8 +1,6 @@
 ## Hi there🗿
 
-I'm Julia and I'm a first year PhD student with the Trujillo Research Group at University of Manchester. 
-
-- 🌱 I’m currently learning Python and C#
+I julia
 
 
 <!--
