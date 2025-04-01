@@ -1,6 +1,6 @@
 ## Hello
 
-I'm Julia, a PhD student in Comp Chem at University of Manchester.
+I'm Julia, a PhD student in Comp Chem at the University of Manchester.
 
 
 <!--
