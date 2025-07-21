@@ -1,7 +1,6 @@
 ## Hello
 [![WakaTime](https://wakatime.com/badge/user/58e39edb-8728-4da4-83f4-d5cd290b2bca.svg)](https://wakatime.com/@jak713)
 
-I'm Julia, a PhD student in Comp Chem at the University of Manchester.
 
 
 <!--
