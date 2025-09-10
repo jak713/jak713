@@ -16,7 +16,7 @@
 
 ![jak713's GitHub stats](https://github-readme-stats-pi-drab-86.vercel.app/api?username=jak713&theme=merko&show_icons=true)
 
-![Top Langs](https://github-readme-stats-pi-drab-86.vercel.app/api/top-langs/?username=jak713&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats-pi-drab-86.vercel.app/api/top-langs/?username=jak713&layout=compact&theme=merko&count_private=true&langs_count=10)
 
 </details>
 
