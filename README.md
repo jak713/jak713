@@ -9,18 +9,14 @@
 ### How I spend my free time:
 ![[CodeWars](https://www.codewars.com/users/jak713)](https://www.codewars.com/users/jak713/badges/small)
 
-[![jak713's GitHub stats](https://github-readme-stats.vercel.app/api?username=jak713)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**jak713/jak713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<summary>Some stats:</summary>
+
+![jak713's GitHub stats](https://github-readme-stats-pi-drab-86.vercel.app/api?username=jak713&theme=merko&show_icons=true)
+
+![Top Langs](https://github-readme-stats-pi-drab-86.vercel.app/api/top-langs/?username=jak713&layout=compact&theme=merko)
+
+</details>
+
