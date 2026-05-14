@@ -1,3 +1,11 @@
+```Python
+class CoolestPersonEver:
+  self.user = "jak713"
+  self.name = "Julia Kaczmarek"
+  self.tinkers_with = ["Python", "SQL", "Bash", "Arduino", "JavaScript", "C#", "C"]
+  self.is_jobless = False
+```
+
 ![[CodeWars](https://www.codewars.com/users/jak713)](https://www.codewars.com/users/jak713/badges/small)
 
 <details>
